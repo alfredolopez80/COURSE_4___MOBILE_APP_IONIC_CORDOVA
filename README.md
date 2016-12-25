@@ -6,4 +6,4 @@ WEEK 2: Ionic support for forms, advanced features of Ionic lists. Different met
 
 WEEK 3: Angular ui-router and the use of resolve. Using of local storage within an app. Deploying the app to emulators and devices (Android & IOS).
 
-WEEK 4: Cordova and the ngCordova wrappers. Plugins the Ionic application.
+WEEK 4: Cordova and the ngCordova wrappers. Plugins with the Ionic application.
